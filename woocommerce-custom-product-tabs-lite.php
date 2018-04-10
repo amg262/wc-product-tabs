@@ -1,25 +1,19 @@
 <?php
 /**
- * Plugin Name: WooCommerce Custom Product Tabs Lite
- * Plugin URI: https://www.skyverge.com/product/woocommerce-custom-product-tabs-lite/
+ * Plugin Name: WooCommerce Product Tabs
+ * Plugin URI: https://andrewgunn.net
  * Description: Extends WooCommerce to add a custom product view page tab
- * Author: SkyVerge
- * Author URI: http://www.skyverge.com/
- * Version: 1.6.2
- * Tested up to: 4.8
- * Text Domain: woocommerce-custom-product-tabs-lite
+ * Author: amg26
+ * Author URI: http://www.andrewgunn.net
+ * Version: 1.0
+ * Tested up to: 4.9.5
+ * Text Domain: wc-product-tabs
  * Domain Path: /i18n/languages/
  *
- * Copyright: (c) 2012-2017, SkyVerge, Inc. (info@skyverge.com)
  *
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  *
- * @package     WC-Custom-Product-Tabs-Lite
- * @author      SkyVerge
- * @category    Plugin
- * @copyright   Copyright (c) 2012-2017, SkyVerge, Inc.
- * @license     http://www.gnu.org/licenses/gpl-3.0.html GNU General Public License v3.0
  */
 
 defined( 'ABSPATH' ) or exit;
